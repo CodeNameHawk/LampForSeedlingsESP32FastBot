@@ -1,0 +1,1 @@
+C:\Users\Marian\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.1.3\tools\espota.exe -r -i 192.168.1.28 -p 3232 --auth= -f C:\Users\Marian\Documents\Arduino\ESP32\build/LampForSeedlingsESP32FastBot.ino.bin 
