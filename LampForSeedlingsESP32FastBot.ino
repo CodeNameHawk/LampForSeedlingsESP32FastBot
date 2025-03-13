@@ -1,6 +1,6 @@
 /*
   LampForSeedlingsESP32FastBot
-  
+  https://github.com/CodeNameHawk/LampForSeedlingsESP32FastBot
 
   used with ESP32 board and FastBot library https://github.com/GyverLibs/FastBot
   This program is used to control a lamp for seedlings.
